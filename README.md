@@ -8,6 +8,7 @@ A outra etapa consistiu em replicar os passos com os conceitos apresentados ante
 
 Projeto criado seguindo a mentoria de [Venilton FalvoJr](https://github.com/falvojr).
 
+---
 ### Ferramentas utilizadas:
  - Java;
  - Spring com os seguintes módulos:
@@ -15,25 +16,32 @@ Projeto criado seguindo a mentoria de [Venilton FalvoJr](https://github.com/falv
     - Spring Web;
     - H2 Database;
     - OpenFeign.
-
+    
+---
 ### Inicialização o projeto:
 
 #### Java:
 
 Execute: 
 
-#### `Test.main()`
+```
+Test.main()
+```
 
 
 #### Spring:
 
 Execute: 
 
-#### `Application.main()`
+```
+Application.main()
+```
 
 No navegador, insira a URL:
 
-#### `http://127.0.0.1:8080/swagger-ui/index.html`
+```
+http://127.0.0.1:8080/swagger-ui/index.html
+```
 
 Esse projeto foi criado com a utilização do [Spring Initializr](https://start.spring.io/).
 
