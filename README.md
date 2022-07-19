@@ -1,9 +1,8 @@
 # Projeto: Aplicação de Design Patterns com Java e Spring
 
 O objetivo desse projeto foi a criação de uma API que consome outra, com integração de um banco de dados relacional em memória utilizando JPA, e aproveitar dessas premissas para colocar em prática alguns padrões de projeto.
- tais como _Singleton_, _Strategy_ e _Facade_.
 
-Na primeira etapa foram estruturados exemplos de aplicação dos _Design Patterns Singleton_, _Strategy_ e _Facade_, utilizando a linguagem Java pura
+Na primeira etapa foram estruturados exemplos de aplicação dos _Design Patterns Singleton_, _Strategy_ e _Facade_, utilizando a linguagem Java.
 
 A outra etapa consistiu em replicar os passos com os conceitos apresentados anteriormente utilizando o framework Spring, mas dessa vez consumindo a [API do ViaCEP](https://viacep.com.br/) para auxiliar na obtenção de dados relacionados a endereço, e fazendo uso do banco de dados H2.
 
