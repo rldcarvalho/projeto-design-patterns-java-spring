@@ -9,25 +9,25 @@ A outra etapa consistiu em replicar os passos com os conceitos apresentados ante
 Projeto criado seguindo a mentoria de [Venilton FalvoJr](https://github.com/falvojr).
 
 ### Ferramentas utilizadas:
- - Java
+ - Java;
  - Spring com os seguintes módulos:
-    - Spring Data Jpa
-    - Spring Web
-    - H2 Database
-    - OpenFeign
+    - Spring Data Jpa;
+    - Spring Web;
+    - H2 Database;
+    - OpenFeign.
 
 ### Inicialização o projeto:
 
 #### Java:
 
-Execute o: 
+Execute: 
 
 #### `Test.main()`
 
 
 #### Spring:
 
-Execute o: 
+Execute: 
 
 #### `Application.main()`
 
